@@ -292,7 +292,7 @@ TextLabel888.BackgroundTransparency = 1.000
 TextLabel888.Position = UDim2.new(0.778284669, 0, 0.704933584, 0)
 TextLabel888.Size = UDim2.new(0, 243, 0, 43)
 TextLabel888.Font = Enum.Font.Arcade
-TextLabel888.Text = "press (8,9,0,-) to change modes"
+TextLabel888.Text = "press (8,9,0,-) to change modes. Maded by Outfies#2125"
 TextLabel888.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel888.TextSize = 14.000
 
